@@ -29,11 +29,11 @@ The total supply is fixed at 1 billion tokens to be mined over 120 years
 
 Current circulating supply can be found on the [Kadena Block Explorer](https://explorer.chainweb.com/mainnet).
 
-![github](/img/docs/what-is-kda/coins-in-circulation.png)
+![github](https://miro.medium.com/max/828/1*4CzoC2QMzdPi2gsSd_OgJw.webp)
 
 ## How is the total token supply allocated?
 
-![github](/img/docs/what-is-kda/token-allocation.png)
+![github](![image](https://user-images.githubusercontent.com/89724704/205413656-71c6f552-c9db-43bf-8cdb-7316891b918e.png))
 
 ## How do I get KDA?
 
